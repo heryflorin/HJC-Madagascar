@@ -17,8 +17,8 @@ const Footer = () => (
       <div>
         <h4 className="font-semibold mb-2">Contact</h4>
         <p>Adresse : Antananarivo, Madagascar</p>
-        <p>Téléphone : +261 XX XX XXX XX</p>
-        <p>Email : <a href="mailto:contact@hjcmadagascar.com" className="hover:text-yellow-400">contact@hjcmadagascar.com</a></p>
+        <p>Téléphone : +261 34 43 969 68</p>
+        <p>Email : <a href="mailto:hjc.madagascar@gmail.com" className="hover:text-yellow-400">hjc.madagascar@gmail.com</a></p>
       </div>
       <div>
         <h4 className="font-semibold mb-2">Réseaux sociaux</h4>
