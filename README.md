@@ -1,1 +1,1 @@
-This page is created to show everyone the HJC MADAGASCAR Company
+This page is created to show to everyone the HJC MADAGASCAR Company
